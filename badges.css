@@ -143,7 +143,7 @@
   animation: scaleIn .2s linear 1;
 }
 
-/* Elmo aka the weeb */
+/* ウィザード */
 .avatar-1BDn8e[src*="390293587322994710"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "";
   background-image: url('https://cdn.discordapp.com/emojis/398885947204173824.png?v=1');}
 .avatar-1BDn8e[src*="390293587322994710"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
@@ -151,15 +151,16 @@
   animation: scaleIn .2s linear 1;
 }
 
-/* Proyal */
-.avatar-1BDn8e[src*="325655213870678016"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "";
-  background-image: url('https://i.imgur.com/7SooPAN.gif');}
-.avatar-1BDn8e[src*="325655213870678016"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
-  content: "Certified Weeb";
+/* Fishstick */
+.avatar-1BDn8e[src*="456286665661743106"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "";
+  background-image: url('https://i.imgur.com/sUGC2Q0.png');}
+.avatar-1BDn8e[src*="456286665661743106"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  color: #c55211;
+  content: "The One and only Fishstick";
   animation: scaleIn .2s linear 1;
 }
 
-/* TechieC */
+/* someone */
 .avatar-1BDn8e[src*="492077614404730903"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "";
   background-image: url('https://cdn.discordapp.com/attachments/703240281155436554/708721981280878682/e-logo-glitched.gif');			
   border-radius: 5px;}
@@ -200,12 +201,12 @@
   animation: scaleIn .2s linear 1;
 }
 
-/* KarinnHaru */
-.avatar-1BDn8e[src*="365136623668690944"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "";
-  background-image: url('https://cdn.discordapp.com/attachments/696581398533767228/733778563970367508/unknown.png');}
-.avatar-1BDn8e[src*="365136623668690944"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
-  content: "Meinar";
-  background-color: #55ff50;
+/* Proyal */
+.avatar-1BDn8e[src*="325655213870678016"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "";
+  background-image: url('https://i.imgur.com/yd4sE3s.gif');}
+.avatar-1BDn8e[src*="325655213870678016"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "discord.io/sapphirex";
+  background-color: #5dbcd2;
   color: #000;
   animation: scaleIn .2s linear 1;
 }
@@ -223,7 +224,7 @@
   color: #fff;
 }
 
-/* Scotty1Arm or Knocksier */
+/* Scotty or Knocksier */
 .avatar-1BDn8e[src*="121382811356758016"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
   content: "";
   background-image: url('https://codedotspectra.github.io/themes/badges/twitch.svg');
