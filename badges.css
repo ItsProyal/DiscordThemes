@@ -106,8 +106,8 @@
   background-image: url('https://raw.githack.com/ItsProyal/DiscordThemes/main/badges/electronspooky.png');}
 .avatar-1BDn8e[src*="302756030784471040"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
   content: "discord.io/EJIT";
-  background-color: #fff;
-  color: #000;
+  background-color: #290f92;
+  color: #ff6a00;
   animation: scaleIn .2s linear 1;
 }
 
@@ -121,7 +121,7 @@
   background-image: url('https://raw.githack.com/ItsProyal/DiscordThemes/main/badges/youtube.png'), url('https://raw.githack.com/ItsProyal/DiscordThemes/main/badges/Sakpot.png');}
 .avatar-1BDn8e[src*="351861616041787403"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
   content: "https://tinyurl.com/sakpot";
-  background-color: #fa73ff;
+  background-color: #e60000;
   width: 137px;
   color: #fff;
   animation: scaleIn .2s linear 1;
