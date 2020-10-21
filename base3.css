@@ -30,8 +30,8 @@
     --toast-contents: var(--background-secondary) !important;
     --toast-box-shadow: rgba(0, 0, 0, .2) !important;
     --toast-border: var(--background-tertiary) !important;
-    --bg2: var(--background-primary) !important;
-    --bg3: var(--background-secondary-alt) !important;
+    --bg2: rgba(41, 40, 65 .2) !important;
+    --bg3: rgba(60, 58, 94, .2) !important;
 
 }
 .wrapper-1Rf91z .listItem-2P_4kh {
