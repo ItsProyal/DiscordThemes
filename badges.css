@@ -95,6 +95,23 @@
   animation: scaleIn .2s linear 1;
 }
 
+
+
+/* Sakpot */
+
+.avatar-1BDn8e[src*="351861616041787403"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "";
+  width: 30px;
+  background-position: left, right;
+  background-image: url('https://raw.githack.com/ItsProyal/DiscordThemes/main/badges/youtube.png'), url('https://raw.githack.com/ItsProyal/DiscordThemes/main/badges/Sakpot.png');}
+.avatar-1BDn8e[src*="351861616041787403"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "https://tinyurl.com/sakpot";
+  background-color: #fa73ff;
+  color: #fff;
+  animation: scaleIn .2s linear 1;
+}
+
+
 /* yura */
 .avatar-1BDn8e[src*="517447785491070987"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "";
   background-image: url('https://cdn.discordapp.com/attachments/706165692608806933/708809414437634089/YinYangCats.gif');}
