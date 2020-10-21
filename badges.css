@@ -1,3 +1,6 @@
+
+
+
 .avatar-1BDn8e + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
   display: inline-block;
   height: 14px;
@@ -96,6 +99,18 @@
 }
 
 
+/* Electron */
+
+
+.avatar-1BDn8e[src*="302756030784471040"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "";
+  background-image: url('https://raw.githack.com/ItsProyal/DiscordThemes/main/badges/electronspooky.png');}
+.avatar-1BDn8e[src*="302756030784471040"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "discord.io/EJIT";
+  background-color: #fff;
+  color: #000;
+  animation: scaleIn .2s linear 1;
+}
+
 
 /* Sakpot */
 
@@ -107,6 +122,7 @@
 .avatar-1BDn8e[src*="351861616041787403"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
   content: "https://tinyurl.com/sakpot";
   background-color: #fa73ff;
+  width: 137px;
   color: #fff;
   animation: scaleIn .2s linear 1;
 }
