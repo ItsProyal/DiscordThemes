@@ -1703,9 +1703,7 @@ html.theme-light #app-mount:after {
 #app-mount .userPopout-3XzG_A .wrapper-3t9DeA[aria-label*=mobile] {
   margin-right: 0;
 }
-#app-mount .userPopout-3XzG_A .headerPlaying-j0WQBV {
-  background: var(--bg8);
-}
+
 #app-mount .userPopout-3XzG_A .avatarHint-1qgaV3 {
   border-radius: var(--SD-roundness) !important;
 }
@@ -1726,15 +1724,7 @@ html.theme-light #app-mount:after {
   -webkit-mask: none;
           mask: none;
 }
-#app-mount .userPopout-3XzG_A .activity-11LB_k {
-  background: transparent;
-}
-#app-mount .userPopout-3XzG_A .headerNormal-T_seeN {
-  background: var(--bg8);
-}
-#app-mount .userPopout-3XzG_A .body-3iLsc4 {
-  background: var(--bg6);
-}
+
 #app-mount .userPopout-3XzG_A .body-3iLsc4 .bodyTitle-Y0qMQz {
   color: #fff;
   font-weight: 400;
