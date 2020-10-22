@@ -331,3 +331,115 @@
 
 
 
+
+
+
+/* Server Headers */
+
+
+/* Better Discord */
+.container-PNkimc[aria-label*="BetterDiscord"] .container-2Rl01u {
+    min-height: 135px;
+}
+
+.container-PNkimc[aria-label*="BetterDiscord"]::after {
+    content: "";
+    position: absolute;
+    font-size: 16px;
+    line-height: 90px;
+    border-radius: 0 5px 5px 0;
+    text-align: center;
+    height: 135px;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: center / cover no-repeat url("https://goldenlys.github.io/ThemeGen/img/BD-Header.png") !important;
+}
+
+.container-PNkimc[aria-label*="BetterDiscord"] .container-2Rl01u::after {
+    content: "";
+    position: absolute;
+    border-radius: 5px;
+    text-align: center;
+    height: 20px;
+    width: 20px;
+    top: 15px;
+    left: 6.5px;
+    z-index: 1;
+    background: center / cover no-repeat url("https://goldenlys.github.io/ThemeGen/img/BD-Logo.png") !important;
+}
+
+.container-PNkimc[aria-label*="BetterDiscord"] .guildIconContainer-E1JUVt {
+    display: none;
+}
+
+.name-3YKhmS, .tierTooltipTitle-1EIbL_ {
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 0 0 5px;
+    font-size: 20px;
+    line-height: 48px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Sequoia */
+
+
+.container-PNkimc[aria-label*="᠂ ⚘᠃ 𝐒𝐞𝐪𝐮𝐨𝐢𝐚᠃ ⚘᠂"] .container-2Rl01u {
+    min-height: 135px;
+}
+
+.container-PNkimc[aria-label*="᠂ ⚘᠃ 𝐒𝐞𝐪𝐮𝐨𝐢𝐚᠃ ⚘᠂"]::after {
+    content: "";
+    position: absolute;
+    font-size: 16px;
+    line-height: 90px;
+    border-radius: 0 5px 5px 0;
+    text-align: center;
+    height: 135px;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: center / cover no-repeat url("https://raw.githack.com/ItsProyal/DiscordThemes/main/badges/SeqHeader.png") !important;
+}
+
+.container-PNkimc[aria-label*="᠂ ⚘᠃ 𝐒𝐞𝐪𝐮𝐨𝐢𝐚᠃ ⚘᠂"] .container-2Rl01u::after {
+    content: "";
+    position: absolute;
+    border-radius: 5px;
+    text-align: center;
+    height: 20px;
+    width: 20px;
+    top: 15px;
+    left: 6.5px;
+    z-index: 1;
+    background: center / cover no-repeat url("https://raw.githack.com/ItsProyal/DiscordThemes/main/badges/seq.gif") !important;
+}
+
+.container-PNkimc[aria-label*="᠂ ⚘᠃ 𝐒𝐞𝐪𝐮𝐨𝐢𝐚᠃ ⚘᠂"] .guildIconContainer-E1JUVt {
+    display: none;
+}
+
+.name-3YKhmS, .tierTooltipTitle-1EIbL_ {
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 0 0 5px;
+    font-size: 20px;
+    line-height: 48px;
+}
+
+
+
