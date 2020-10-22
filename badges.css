@@ -1,6 +1,3 @@
-
-
-
 .avatar-1BDn8e + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
   display: inline-block;
   height: 14px;
@@ -129,15 +126,15 @@
 
 /* Blueheart */
 
-.avatar-1BDn8e[src*="351861616041787403"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+.avatar-1BDn8e[src*="521802613029732385"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
   content: "";
-  width: 30px;
+  width: 36px;
   background-position: left, right;
-  background-image: url('https://raw.githack.com/ItsProyal/DiscordThemes/main/badges/flower.png');}
-.avatar-1BDn8e[src*="351861616041787403"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
-  content: "https://discord.gg/GKKbavH";
+  background-image: url('https://raw.githack.com/ItsProyal/DiscordThemes/main/badges/sequoia.png'), url('https://raw.githack.com/ItsProyal/DiscordThemes/main/badges/flower.png');}
+.avatar-1BDn8e[src*="521802613029732385"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "Sequoia Owner | https://discord.gg/GKKbavH";
   background-color: #e60000;
-  width: 137px;
+  width: 233px;
   color: #fff;
   animation: scaleIn .2s linear 1;
 }
@@ -326,3 +323,11 @@
   background-color: #6441a5;
   color: #fff;
 }
+
+
+
+
+
+
+
+
