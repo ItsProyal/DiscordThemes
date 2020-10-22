@@ -142,6 +142,17 @@
   animation: scaleIn .2s linear 1;
 }
 
+/* Aero Client Bot */
+
+.avatar-1BDn8e[src*="675412924503818301"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "";
+  background-image: url('https://raw.githack.com/ItsProyal/DiscordThemes/main/badges/AeroClient.png');}
+.avatar-1BDn8e[src*="675412924503818301"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "Aero Client Bot | AeroClient.tk";
+  background-color: #4800FF;
+  color: #fff;
+  animation: scaleIn .2s linear 1;
+}
+
 
 /* Sakpot */
 
