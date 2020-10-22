@@ -480,3 +480,41 @@
 }
 
 
+/* Aero Client */
+
+
+
+.container-PNkimc[aria-label*="Aero Client"] .container-2Rl01u {
+    min-height: 135px;
+}
+
+.container-PNkimc[aria-label*="Aero Client"]::after {
+    content: "";
+    position: absolute;
+    font-size: 18px;
+    line-height: 90px;
+    border-radius: 0 5px 5px 0;
+    text-align: center;
+    height: 135px;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: center / cover no-repeat url("https://raw.githack.com/ItsProyal/DiscordThemes/main/badges/Aero-Header.png") !important;
+}
+
+.container-PNkimc[aria-label*="Aero Client"] .container-2Rl01u::after {
+    content: "";
+    position: absolute;
+    border-radius: 5px;
+    text-align: center;
+    height: 20px;
+    width: 20px;
+    top: 15px;
+    left: 2px;
+    z-index: 1;
+    background: center / cover no-repeat url("https://raw.githack.com/ItsProyal/DiscordThemes/main/badges/AeroClient.png") !important;
+}
+
+.container-PNkimc[aria-label*="Aero Client"] .guildIconContainer-E1JUVt {
+    display: none;
+}
