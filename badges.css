@@ -127,6 +127,22 @@
   animation: scaleIn .2s linear 1;
 }
 
+/* Blueheart */
+
+.avatar-1BDn8e[src*="351861616041787403"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  content: "";
+  width: 30px;
+  background-position: left, right;
+  background-image: url('https://raw.githack.com/ItsProyal/DiscordThemes/main/badges/flower.png');}
+.avatar-1BDn8e[src*="351861616041787403"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "https://discord.gg/GKKbavH";
+  background-color: #e60000;
+  width: 137px;
+  color: #fff;
+  animation: scaleIn .2s linear 1;
+}
+
+
 
 /* yura */
 .avatar-1BDn8e[src*="517447785491070987"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "";
